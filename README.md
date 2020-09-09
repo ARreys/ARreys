@@ -1,6 +1,8 @@
 <h1 align='center'>Hey bro !</h1> 
 
-<p align='center' style="color:purple">I'm Arthur Alves and i'm very happy for your visit to my github !</p>
+<p align='center'>I'm Arthur Alves and i'm very happy for your visit to my github !</p>
+
+<div align='center'>Arthur teste</div>
 
 
 
