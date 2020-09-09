@@ -6,7 +6,9 @@
   <a href="https://twitter.com/it_sArthurAlves">
     <img src="https://img.shields.io/badge/-Twitter-00ACEE?style=flat-square&labelColor=00ACEE&logo=twitter&logoColor=white">
   </a>
-
+  <a href="https://t.me/it_sarthuralves">
+    <img src="https://img.shields.io/badge/-Telegram-0088CC?style=flat-square&logo=telegram&logoColor=white">
+  </a
 </div>
 
 
@@ -17,7 +19,7 @@
 
 
 <!--
-[        ![Twitter Badge](https://img.shields.io/badge/-Twitter-00ACEE?style=flat-square&labelColor=00ACEE&logo=twitter&logoColor=white&link=https://twitter.com/it_sArthurAlves)        ](https://twitter.com/it_sArthurAlves) [
+ [
 ![Telegram Badge](https://img.shields.io/badge/-Telegram-0088CC?style=flat-square&logo=telegram&logoColor=white&link=https;//instagram.com/_arthur.alves_)
 ](https://t.me/it_sarthuralves) [![Gmail Badge](https://img.shields.io/badge/-Gmail-dd4b39?style=flat-square&logo=Gmail&logoColor=white&link=mailto:itsarthuralves@gmail.com)](mailto:itsarthuralves@gmail.com) [      ![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0976b4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-alves-78a63a161/)](https://www.linkedin.com/in/arthur-alves-78a63a161/) [                                                      ![ Badge](https://img.shields.io/badge/-Website-5F2D48?style=flat-square&logo=appveyor&logoColor=white&link=https://arreys.github.io)](https://arreys.github.io/) -->
 
