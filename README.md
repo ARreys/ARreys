@@ -22,8 +22,8 @@
 
 
 <h5 align='center'>**A little about myself**</h5>
-- 🔭 I’m currently working on the development of a website for a radiology clinic, which will be in more detail soon.
-- 🌱 I’m currently learning development mobile with flutter and web focused in frontend size
+<p align='left'>- 🔭 I’m currently working on the development of a website for a radiology clinic, which will be in more detail soon.</p>
+<p align='left'>- 🌱 I’m currently learning development mobile with flutter and web focused in frontend size</p>
 <!-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
