@@ -9,22 +9,19 @@
   <a href="https://t.me/it_sarthuralves">
     <img src="https://img.shields.io/badge/-Telegram-0088CC?style=flat-square&logo=telegram&logoColor=white">
   </a
+  <a href="mailto:itsarthuralves@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-dd4b39?style=flat-square&logo=Gmail&logoColor=white">
+  </a
+  <a href="https://www.linkedin.com/in/arthur-alves-78a63a161/">
+    <img src="https://img.shields.io/badge/-Linkedin-0976b4?style=flat-square&logo=Linkedin&logoColor=white">
+  </a
+  <a href="https://arreys.github.io/">
+    <img src="https://img.shields.io/badge/-Website-5F2D48?style=flat-square&logo=appveyor&logoColor=white">
+  </a>
 </div>
 
 
-
-
-
-
-
-
-<!--
- [
-![Telegram Badge](https://img.shields.io/badge/-Telegram-0088CC?style=flat-square&logo=telegram&logoColor=white&link=https;//instagram.com/_arthur.alves_)
-](https://t.me/it_sarthuralves) [![Gmail Badge](https://img.shields.io/badge/-Gmail-dd4b39?style=flat-square&logo=Gmail&logoColor=white&link=mailto:itsarthuralves@gmail.com)](mailto:itsarthuralves@gmail.com) [      ![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0976b4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-alves-78a63a161/)](https://www.linkedin.com/in/arthur-alves-78a63a161/) [                                                      ![ Badge](https://img.shields.io/badge/-Website-5F2D48?style=flat-square&logo=appveyor&logoColor=white&link=https://arreys.github.io)](https://arreys.github.io/) -->
-
-**A little about myself**
-
+<h5 align='center'>**A little about myself**</h5>
 - 🔭 I’m currently working on the development of a website for a radiology clinic, which will be in more detail soon.
 - 🌱 I’m currently learning development mobile with flutter and web focused in frontend size
 <!-- 👯 I’m looking to collaborate on ...
