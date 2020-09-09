@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/arthur-alves-78a63a161/">
     <img src="https://img.shields.io/badge/-Linkedin-0976b4?style=flat-square&logo=Linkedin&logoColor=white">
   </a
-  <a href="arreys.github.io/">
+  <a href="https://arreys.github.io/">
     <img src="https://img.shields.io/badge/-Website-5F2D48?style=flat-square&logo=appveyor&logoColor=white">
   </a>
 </div>
