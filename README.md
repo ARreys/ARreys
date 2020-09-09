@@ -2,15 +2,12 @@
 
 <p align='center'>I'm Arthur Alves and i'm very happy for your visit to my github !</p>
 
-<div align='center'>Arthur teste</div>
+<div align='center'>
+  <a href="https://twitter.com/it_sArthurAlves">
+    <img src="https://img.shields.io/badge/-Twitter-00ACEE?style=flat-square&labelColor=00ACEE&logo=twitter&logoColor=white">
+  </a>
 
-
-
-
-
-
-
-
+</div>
 
 
 
