@@ -3,9 +3,6 @@
 <p align='center'>I'm Arthur Alves and i'm very happy for your visit to my github !</p>
 
 <div align='center'>
-  <a href="https://twitter.com/it_sArthurAlves/">
-    <img src="https://img.shields.io/badge/-Twitter-00ACEE?style=flat-square&labelColor=00ACEE&logo=twitter&logoColor=white" />
-  </a>
   <a href="https://t.me/it_sarthuralves/">
     <img src="https://img.shields.io/badge/-Telegram-0088CC?style=flat-square&logo=telegram&logoColor=white" />
   </a>
