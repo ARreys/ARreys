@@ -19,8 +19,10 @@
 
 
 <h5 align='center'>A little about myself</h5>
-<p align='left'>- 🔭 I’m currently working on the development of a website for a radiology clinic, which will be in more detail soon.</p>
-<p align='left'>- 🌱 I’m currently learning development mobile with flutter and web focused in frontend.</p>
+<p align='left'>- 🔭 I’m currently working on the development of a web system focused in health, which will be in more detail soon.</p>
+<p align='left'>- 🌱 I’m currently learning development frontend.</p>
+<p align='left'>- 💻 Front-end engineer.</p>
+<p align='left'>- 💬 I'm love solving problems and learning. Always open to new challenges and ready to face changes.</p>
 <!-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
