@@ -16,12 +16,11 @@
     <img src="https://img.shields.io/badge/-Website-5F2D48?style=flat-square&logo=appveyor&logoColor=white" />
   </a>
 </div>
-<div>
-  <p align='left'>- 🔭 I’m currently working on the development of a web system focused in health, which will be in more detail soon.</p>
-  <p align='left'>- 🌱 I’m currently learning development frontend.</p>
-  <p align='left'>- 💻 Front-end engineer.</p>
-  <p align='left'>- 💬 I'm love solving problems and learning. Always open to new challenges and ready to face changes.</p>
-</div>
+<h1></h1>
+<p align='left'>- 🔭 I’m currently working on the development of a web system focused in health, which will be in more detail soon.</p>
+<p align='left'>- 🌱 I’m currently learning development frontend.</p>
+<p align='left'>- 💻 Front-end engineer.</p>
+<p align='left'>- 💬 I'm love solving problems and learning. Always open to new challenges and ready to face changes.</p>
 <!-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
