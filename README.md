@@ -16,6 +16,9 @@
     <img src="https://img.shields.io/badge/-Website-f9a825?style=flat-square&logo=appveyor&logoColor=white" />
   </a>
 </div>
+<div>
+  <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arreys)](https://github.com/anuraghazra/github-readme-stats)">
+</div>
 <h1></h1>
 <p align='left'>- 🔭 I’m currently working on the development of a web system focused in health, which will be in more detail soon.</p>
 <p align='left'>- 🌱 I’m currently learning development frontend.</p>
