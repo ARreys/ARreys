@@ -17,9 +17,8 @@
   </a>
 </div>
 <h1></h1>
-<p align='left'>- 🔭 I’m currently working on the development of a web system focused in health, which will be in more detail soon.</p>
-<p align='left'>- 🌱 I’m currently learning development frontend.</p>
 <p align='left'>- 💻 Front-end engineer.</p>
+<p align='left'>- 🔭 I’m currently working on the development of a web system focused in health, which will be in more detail soon.</p>
 <p align='left'>- 💬 I'm love solving problems and learning. Always open to new challenges and ready to face changes.</p>
 <h1><h1>
 <div align='center'>
