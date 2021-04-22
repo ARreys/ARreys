@@ -16,9 +16,11 @@
     <img src="https://img.shields.io/badge/-Website-f9a825?style=flat-square&logo=appveyor&logoColor=white" />
   </a>
 </div>
-<a href="https://github.com/arreys/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arreys&repo=github-readme-stats" />
-</a>
+<div align='center'>
+  <a href="#">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arreys&layout=compact&theme=synthwave" width="300">
+  </a>
+</div>
 <h1></h1>
 <p align='left'>- 🔭 I’m currently working on the development of a web system focused in health, which will be in more detail soon.</p>
 <p align='left'>- 🌱 I’m currently learning development frontend.</p>
