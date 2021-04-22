@@ -4,16 +4,16 @@
 
 <div align='center'>
   <a href="https://t.me/it_sarthuralves/">
-    <img src="https://img.shields.io/badge/-Telegram-0088CC?style=flat-square&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Telegram-f9a825?style=flat-square&logo=telegram&logoColor=white" />
   </a>
   <a href="mailto:itsarthuralves@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-dd4b39?style=flat-square&logo=Gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Gmail-f9a825?style=flat-square&logo=Gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/arthur-alves-78a63a161/">
-    <img src="https://img.shields.io/badge/-Linkedin-0976b4?style=flat-square&logo=Linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linkedin-f9a825?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
   <a href="https://arreys.github.io/">
-    <img src="https://img.shields.io/badge/-Website-5F2D48?style=flat-square&logo=appveyor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Website-f9a825?style=flat-square&logo=appveyor&logoColor=white" />
   </a>
 </div>
 <h1></h1>
