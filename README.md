@@ -17,7 +17,7 @@
   </a>
 </div>
 <div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arreys)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arreys&layout=compact)](https://github.com/arreys/github-readme-stats)
 </div>
 <h1></h1>
 <p align='left'>- 🔭 I’m currently working on the development of a web system focused in health, which will be in more detail soon.</p>
